@@ -1,4 +1,4 @@
-This requires an installation of UCSF Chimera 2 (not Chimera X!)
+This requires an installation of UCSF Chimera 2 (not Chimera X!), and the StructBio toolkit by Burkowski, F.J., Computational and Visualization Techniques for Structural Bioinformatics Using Chimera.
 
 Steps:
 1. Run chl_extractor_v2.py in the Python IDLE interface of UCSF Chimera. This should write a 'chls_1B0.csv' file in the directory containing chlorophyll positions.
